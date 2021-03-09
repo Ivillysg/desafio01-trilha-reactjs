@@ -56,7 +56,7 @@ $ yarn dev
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 Feito com
-💜 by <a href="https://github.com/ivillyg" target="_blank">Ivillys Gomes</a>
+💜 by <a href="https://github.com/Ivillysg/" target="_blank">Ivillys Gomes</a>
 
 &#xa0;
 
