@@ -3,7 +3,7 @@
 <hr/>
 
 ## Sobre
-uma aplicação simples, onde o principal objetivo é uma aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
+Uma aplicação simples, onde o principal objetivo é uma aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
 
 ## Screenshot
 
